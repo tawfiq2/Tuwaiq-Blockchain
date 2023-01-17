@@ -3,8 +3,6 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [System Scenario](#System-Scenario)
-* [System Diagram](#system-Diagram)
 * [Setup](#setup)
 
 ## General info
@@ -24,20 +22,6 @@ Some software we needed:
 * Remix - Ethereum
 * Visual Studio Code
 
-
-
-## WebTest
-![Diagram](https://up4net.com/uploads4/up4net.com163049619578792.jpg)![Diagram](https://up4net.com/uploads4/up4net.com163049619566521.jpg)
-
-
-## System Scenario
-
-![interface](https://up4net.com/uploads4/up4net.com163043001566181.jpg)
-	
-  
-## System Diagram
-![Diagram](https://up4net.com/uploads4/up4net.com163043001571422.jpg)![Diagram](https://up4net.com/uploads4/up4net.com163043001583693.jpg)
-![Diagram](https://up4net.com/uploads4/up4net.com163043001589924.jpg)
 
 	
 ## Setup
